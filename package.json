@@ -1,0 +1,19 @@
+{
+  "name": "gateway-giving-sync",
+  "version": "1.0.0",
+  "description": "Imports .csv files and updates Planning Center giving data accordingly",
+  "main": "client/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JStubb7939/gateway-giving-sync.git"
+  },
+  "author": "Jordan Stubblefield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JStubb7939/gateway-giving-sync/issues"
+  },
+  "homepage": "https://github.com/JStubb7939/gateway-giving-sync#readme"
+}
